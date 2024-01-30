@@ -1,7 +1,7 @@
 
 
-#ifndef cpp2python_H_
-#define cpp2python_H_
+#ifndef prog_H_
+#define prog_H_
 
 #include <stdio.h>
 #include <stdarg.h>

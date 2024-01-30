@@ -59,7 +59,7 @@ NUMBER [0-9]
 "||"    { return OR_OP; }
 "="     { return '='; }
 "+="    { return ADD_ASSIGN; }
-"++"     {return DOBLEMAS;}
+
 
 
 [ \t\v\r\n\f]   { /* skip */ }

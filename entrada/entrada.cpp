@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-cout<<"Compiladores :)"<<endl;
-return 0;
+    cout<<"Compiladores"<<endl;
+    return 0;
 }

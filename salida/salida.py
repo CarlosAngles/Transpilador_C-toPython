@@ -1,5 +1,5 @@
 
 def main():
-	print("Compiladores :)")
+	print("Compiladores")
 	return 0
 main()
